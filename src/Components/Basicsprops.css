@@ -1,0 +1,22 @@
+.props
+{
+    padding: 1rem;
+    color: white;
+    display: grid;
+    grid-gap: 2rem;
+    grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+    z-index: 3;
+    border-bottom: solid 2px aqua ; 
+}
+.right
+{
+border:solid 2px rgb(246, 255, 0);
+text-align: center;
+justify-content: center;
+align-self: center;
+}
+
+.left
+{
+    text-align: left;
+}
