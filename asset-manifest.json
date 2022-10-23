@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LWY-React-project-/static/css/main.3ed790ec.css",
+    "main.js": "/LWY-React-project-/static/js/main.1b92f704.js",
+    "static/js/787.0e6dc9a4.chunk.js": "/LWY-React-project-/static/js/787.0e6dc9a4.chunk.js",
+    "index.html": "/LWY-React-project-/index.html",
+    "main.3ed790ec.css.map": "/LWY-React-project-/static/css/main.3ed790ec.css.map",
+    "main.1b92f704.js.map": "/LWY-React-project-/static/js/main.1b92f704.js.map",
+    "787.0e6dc9a4.chunk.js.map": "/LWY-React-project-/static/js/787.0e6dc9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed790ec.css",
+    "static/js/main.1b92f704.js"
+  ]
+}
